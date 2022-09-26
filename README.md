@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
   - Games! Shocking I know
   - Making/Playing TTRPGs as well as RPG computer games
-  - I'm an Animator/Technical Director/Lecturer/Author/Artist
+  - I'm a Narrative Artist/Animator/Technical Director/Lecturer/Author/Illustrator
 - 🌱 I’m currently learning ...
   - Twine/Yarn
   - Unity
